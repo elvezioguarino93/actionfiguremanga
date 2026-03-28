@@ -469,10 +469,16 @@ footer {
     flex-direction: column;
   }
 
+ @media (max-width: 680px) {
+  .hero-banner {
+    height: 180px;
+  }
+
   .hero-banner img,
   .site-hero-image {
-    height: 160px;
+    object-position: center 40%;
   }
+}
 
   .nav-links {
     gap: 8px;
