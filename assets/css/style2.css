@@ -62,8 +62,6 @@ img {
 header {
   border-bottom: 1px solid rgba(240, 223, 210, 0.9);
   background: rgba(255, 247, 241, 0.92);
-  position: sticky;
-  top: 0;
   backdrop-filter: blur(14px);
   z-index: 30;
   box-shadow: 0 4px 16px rgba(70, 40, 20, 0.04);
