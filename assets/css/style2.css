@@ -76,16 +76,21 @@ header {
 }
 
 .brand {
-  font-size: 1.25rem;
-  font-weight: 800;
-  letter-spacing: -0.02em;
-  color: var(--title);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
 }
 
 .nav-links {
   display: flex;
   gap: 16px;
   flex-wrap: wrap;
+}
+
+.site-logo {
+  height: 34px;
+  width: auto;
+  display: block;
 }
 
 .nav-links a {
@@ -405,6 +410,12 @@ footer {
 
   table {
     min-width: 620px;
+  }
+}
+
+@media (max-width: 680px) {
+  .site-logo {
+    height: 28px;
   }
 }
 
