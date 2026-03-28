@@ -305,6 +305,7 @@ footer {
 }
 
 /* Hero image */
+/*
 .hero-banner {
   width: 100%;
   overflow: hidden;
@@ -320,6 +321,22 @@ footer {
   height: 50%;
   object-fit: contain;
   object-position: center;
+  display: block;
+}
+*/
+.hero-banner {
+  width: 100%;
+  height: 280px;
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+.hero-banner img,
+.site-hero-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 35%;
   display: block;
 }
 
