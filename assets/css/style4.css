@@ -108,12 +108,12 @@ header {
 }
 
 .hero {
-  padding: 26px 0 26px;
+  padding: 26px 10px 26px 10px;
   text-align: center;
 }
 
 .hero h1 {
-  font-size: clamp(2.2rem, 4vw, 3.6rem);
+  font-size: clamp(3rem, 6vw, 5rem);
   line-height: 1.05;
   margin: 0 0 12px;
   color: var(--title);
@@ -378,6 +378,8 @@ footer {
   .hero {
     padding-top: 36px;
     padding-bottom: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 
   .hero-banner {
