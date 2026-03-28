@@ -158,6 +158,14 @@ header {
   transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
 }
 
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 14px;
+  margin-bottom: 16px;
+}
+
 .card:hover {
   transform: translateY(-4px);
   box-shadow: var(--shadow-lg);
@@ -310,7 +318,6 @@ footer {
 .site-hero-image {
   width: 100%;
   height: auto;
-  max-height: 320px;
   object-fit: contain;
   object-position: center;
   display: block;
@@ -394,6 +401,13 @@ footer {
     padding: 18px;
     border-radius: 16px;
   }
+
+  @media (max-width: 680px) {
+  .card img {
+    border-radius: 10px;
+    margin-bottom: 12px;
+  }
+}
 
   .hero-banner,
   .anime-banner,
