@@ -121,7 +121,7 @@ header {
 }
 
 .hero p {
-  max-width: 760px;
+  max-width: auto;
   color: var(--muted);
   font-size: 1.06rem;
 }
