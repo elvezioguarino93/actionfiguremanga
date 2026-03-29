@@ -165,6 +165,14 @@ header {
   box-shadow: var(--shadow-lg);
 }
 
+.card h2 {
+  font-size: 1.35rem;
+}
+
+.card h3 {
+  font-size: 1.1rem;
+}
+
 .card h2,
 .card h3 {
   margin-top: 0;
