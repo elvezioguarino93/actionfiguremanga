@@ -219,7 +219,9 @@ padding-right: 10px;
 }
 
 .button {
-  display: inline-block;
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
   background: linear-gradient(90deg, var(--accent), var(--accent-2));
   color: #2e1a00;
   font-weight: 800;
@@ -227,7 +229,6 @@ padding-right: 10px;
   border-radius: 14px;
   box-shadow: 0 10px 22px rgba(251, 133, 0, 0.2);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
-  text-align: center;
 }
 
 .button:hover {
