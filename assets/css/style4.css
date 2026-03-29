@@ -37,18 +37,7 @@ body {
   line-height: 1.65;
 }
 
-a {
-  color: var(--accent-2);
-  font-weight: 700;
-  text-decoration: underline;
-  text-underline-offset: 3px;
-  transition: color 0.2s ease;
-}
-
-a:hover {
-  color: var(--accent-3);
-  text-decoration: underline;
-}
+a { color: var(--accent-2); text-decoration: none; transition: color 0.2s ease; } a:hover { color: var(--accent-3); text-decoration: none; }
 
 img {
   max-width: 100%;
