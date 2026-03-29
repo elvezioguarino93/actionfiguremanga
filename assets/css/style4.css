@@ -227,6 +227,7 @@ padding-right: 10px;
   border-radius: 14px;
   box-shadow: 0 10px 22px rgba(251, 133, 0, 0.2);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-align: center;
 }
 
 .button:hover {
@@ -395,6 +396,7 @@ footer {
   .nav {
     flex-direction: column;
     align-items: flex-start;
+    padding: 5x
   }
 
   .site-logo {
