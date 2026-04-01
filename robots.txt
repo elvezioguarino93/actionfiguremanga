@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://actionfiguremanga.it/sitemap.xml
+Sitemap: https://www.actionfiguremanga.it/sitemap.xml
