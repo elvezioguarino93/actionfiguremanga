@@ -32,7 +32,11 @@ body {
   color: var(--text);
   line-height: 1.65;
 }
-
+a {
+  color: #000;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
 a:hover {
   color: #000;
   text-decoration: none;
