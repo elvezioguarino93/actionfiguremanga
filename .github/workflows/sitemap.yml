@@ -28,8 +28,9 @@ jobs:
         run: npm install -g sitemap-generator-cli
 
       - name: Generate sitemap
-        run: sitemap-generator https://www.actionfiguremanga.it --output sitemap.xml
+        run: sitemap-generator https://www.actionfiguremanga.it 
         --exclude "https://www.actionfiguremanga.it/index.html"
+--output sitemap.xml
 
       - name: Commit updated sitemap
         run: |
