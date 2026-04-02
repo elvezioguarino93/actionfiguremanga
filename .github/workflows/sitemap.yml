@@ -27,6 +27,7 @@ jobs:
 
       - name: Generate sitemap
         run: sitemap-generator https://www.actionfiguremanga.it --output sitemap.xml
+        --exclude "https://www.actionfiguremanga.it/index.html"
 
       - name: Commit updated sitemap
         run: |
