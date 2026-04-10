@@ -1,52 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/</loc>
   </url>
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/dragonball/</loc>
   </url>
-  
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/naruto/</loc>
   </url>
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/onepiece/</loc>
   </url>
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/blog/</loc>
   </url>
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/dragonball/goku/</loc>
   </url>
-  <url>
-    <loc>https://www.actionfiguremanga.it/dragonball/vegeta/</loc>
-  </url>
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/dragonball/gohan/</loc>
   </url>
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/dragonball/broly/</loc>
   </url>
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/dragonball/freezer/</loc>
   </url>
-   <url>
+<url>
     <loc>https://www.actionfiguremanga.it/kimetsu-no-yaiba/</loc>
   </url>
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/blog/shinobu-action-figure-demon-slayer/</loc>
   </url>
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/blog/shinobu-kocho-figure-da-collezione/</loc>
   </url>
-  <url>
+<url>
   <loc>https://www.actionfiguremanga.it/blog/toji-fushiguro-shfiguarts-recensione-della-figure-tamashii-nations/</loc>
       </url>
-
-  <url>
+<url>
     <loc>https://www.actionfiguremanga.it/blog/figure-shfiguarts-belle-da-collezionare/</loc>
     <lastmod>2026-04-05</lastmod>
   </url>
- 
+  <url>
+    <loc>https://www.actionfiguremanga.it/dragonball/vegeta/</loc>
+    <lastmod>2026-04-10</lastmod>
+  </url>
 </urlset>
